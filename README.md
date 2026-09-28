@@ -40,6 +40,8 @@ Segmentador:
 <img width="917" height="507" alt="image" src="https://github.com/user-attachments/assets/7a30a327-c79e-49a4-9423-cc6e0201e148" />
 
 
+Prints dos gráficos que não apareceram devido a limitações na integração do meu Power BI.
+
 Esse mapa não foi publicado:
 <img width="912" height="510" alt="image" src="https://github.com/user-attachments/assets/6a551e8f-9aa8-4071-a756-7625471f4ef7" />
 
@@ -50,4 +52,3 @@ Esse gráfico não foi publicado
 
 
 
-Prints dos gráficos que não apareceram devido a limitações na integração do meu Power BI.
