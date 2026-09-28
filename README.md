@@ -5,8 +5,7 @@ O link do app é https://app.powerbi.com/groups/me/reports/ecea15ed-795b-4d18-a0
 
 Página 1 publicada:
 
-<img width="929" height="483" alt="image" src="https://github.com/user-attachments/assets/1900c461-d283-41e2-a7a7-
-  6cc9e7322658" />
+<img width="875" height="487" alt="image" src="https://github.com/user-attachments/assets/a2efa9b4-b921-469f-b219-8b67c9440ab4" />
 
 Segmentador:
 
